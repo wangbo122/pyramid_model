@@ -1,4 +1,4 @@
-仿照 AI 提效金字塔模型，写了一个 AI 生成测试用例的金字塔
+仿照 AI 提效金字塔模型，写了一个 AI 根据PRD生成测试用例的金字塔（可以导出xmind）
 
 ## 启动
 
@@ -23,7 +23,8 @@ bun dev
 
 Open [http://localhost:3000](http://localhost:3000) AI 提效金字塔模型.
 
-上传一个 md 格式的 PRD，去生成测试用例吧～
-Open [http://localhost:3000](http://localhost:3000/test-cases) AI 提效金字塔模型.
+`上传一个 md 格式的 PRD，去生成测试用例吧～`
 
-![AI测试金字塔模型](./assets/pyramid.png)
+Open [http://localhost:3000/test-cases](http://localhost:3000/test-cases) AI 根据PRD生成测试用例.
+
+![AI测试金字塔模型](./assets/1741762060836.jpg)
